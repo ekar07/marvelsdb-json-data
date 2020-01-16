@@ -126,5 +126,13 @@
 	{
 		"code": "thor_nemesis",
 		"name": "Thor Nemesis"
-	}
+	},
+  {
+    "code": "black_widow",
+    "name": "Black Widow"
+  },
+  {
+    "code": "black_widow_nemesis",
+    "name": "Black Widow Nemesis"
+  }
 ]

@@ -6,9 +6,10 @@
 		"date_release": "2019-11-01",
 		"name": "Core Set",
 		"position": 1,
-		"size": 355 
+		"size": 355
 	},
 	{
+		"cgdb_id": 2,
 		"code": "gob",
 		"pack_type_code": "scenario",
 		"date_release": "2019-12-20",
@@ -26,6 +27,14 @@
 		"size": 56
 	},
 	{
+		"cgdb_id": 4,
+		"code": "wrk",
+		"pack_type_code": "scenario",
+		"date_release": null,
+		"name": "The Wrecking Crew",
+		"position": 4
+	},
+	{
 		"cgdb_id": 5,
 		"code": "msm",
 		"pack_type_code": "hero",
@@ -35,11 +44,21 @@
 		"size": 56
 	},
 	{
+		"cgdb_id": 6,
 		"code": "thor",
 		"pack_type_code": "hero",
 		"date_release": null,
 		"name": "Thor",
 		"position": 6,
+		"size": 56
+	},
+	{
+		"cgdb_id": 7,
+		"code": "bkw",
+		"pack_type_code": "hero",
+		"date_release": null,
+		"name": "Black Widow",
+		"position": 7,
 		"size": 56
 	}
 ]
